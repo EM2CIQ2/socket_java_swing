@@ -65,7 +65,9 @@
                         <preferred-size width="150" height="-1"/>
                       </grid>
                     </constraints>
-                    <properties/>
+                    <properties>
+                      <text value="192.168.43.130"/>
+                    </properties>
                   </component>
                   <component id="fbc6b" class="javax.swing.JButton" binding="btnListen">
                     <constraints>
@@ -145,7 +147,9 @@
                         <preferred-size width="150" height="-1"/>
                       </grid>
                     </constraints>
-                    <properties/>
+                    <properties>
+                      <text value="192.168.43.130"/>
+                    </properties>
                   </component>
                 </children>
               </grid>
