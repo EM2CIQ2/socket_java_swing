@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4141dee9-98f7-4bc6-9c56-801a9cce293f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frmDemoSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frmDemoSocket.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i83cHA8FWyRnjEBnSIM83InM1e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="frmDemoSocket" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="frmDemoSocket" />
+      <module name="DemoSocket" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4141dee9-98f7-4bc6-9c56-801a9cce293f" name="Default Changelist" comment="" />
+      <created>1601275469703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601275469703</updated>
+      <workItem from="1601275470732" duration="2496000" />
+      <workItem from="1601279218707" duration="975000" />
+      <workItem from="1601472351416" duration="73000" />
+      <workItem from="1601512131722" duration="66000" />
+      <workItem from="1601512200161" duration="1150000" />
+      <workItem from="1601513358785" duration="2707000" />
+      <workItem from="1601516552493" duration="77000" />
+      <workItem from="1601516708054" duration="228000" />
+      <workItem from="1601516971559" duration="154000" />
+      <workItem from="1601519116150" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="546" y="0" key="#Java" timestamp="1601514880987">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="546" y="0" key="#Java/0.0.1366.768@0.0.1366.768" timestamp="1601514880987" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1601275585247">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1601275585247" />
+    <state x="463" y="47" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1601276939773">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="47" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1366.768@0.0.1366.768" timestamp="1601276939773" />
+    <state x="249" y="0" width="1092" height="768" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601517105229">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="249" y="0" width="1092" height="768" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1601517105229" />
+    <state x="412" y="177" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601517096393">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="412" y="177" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1601517096393" />
+    <state x="463" y="154" key="FileChooserDialogImpl" timestamp="1601516932250">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="154" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1601516932250" />
+    <state x="553" y="282" key="Github.ShareDialog" timestamp="1601280148930">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="553" y="282" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1601280148930" />
+    <state x="514" y="89" key="Github.UntrackedFilesDialog" timestamp="1601280162065">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="514" y="89" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1601280162065" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1601516073290">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601516073290" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1601516073290">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601516073290" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1601516073290">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601516073290" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1601516073290">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601516073290" />
+    <state x="184" y="29" key="SettingsEditor" timestamp="1601513442577">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601513442577" />
+  </component>
+</project>
